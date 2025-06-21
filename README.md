@@ -1,7 +1,7 @@
 # 🧰 Service Follow-ups Dashboard
 
 **Project Overview**  
-This project contains a Power BI dashboard built for visualizing and analyzing service follow-up data collected directly from the shop. The dashboard enables shop managers and team leads to track service performance, geographic trends, and customer follow-up status efficiently.
+This project contains a Power BI dashboard built for visualizing and analyzing service follow-up data collected directly from the two-wheeler showroom. The dashboard enables shop managers and team leads to track service performance, geographic trends, and customer follow-up status efficiently.
 
 ---
 
@@ -21,11 +21,11 @@ This project contains a Power BI dashboard built for visualizing and analyzing s
 
 #### 1️⃣ Service Overview
 This dashboard section provides a high-level summary of service performance and follow-up status.  
-![Service Overview](DAshboard1.pdf)
+![Service Overview](images/DAshboard1.png)
 
 #### 2️⃣ Geographic Service Analysis
 This page visualizes service performance across different geographic areas and highlights regional trends.  
-![Geographic Service Analysis](dashboard2.pdf)
+![Geographic Service Analysis](images/dashboard2.png)
 
 ---
 
@@ -51,13 +51,4 @@ This page visualizes service performance across different geographic areas and h
 - 🧮 Introduce additional KPIs like average service duration and repeat visits
 - 📂 Enable drill-through analysis per region or service type
 
----
 
-## 🤝 Contributors
-- **Roshini** — Project owner and dashboard design
-- Shop team for data collection
-
----
-
-## 📜 License
-This project is for educational purposes. Please credit this repository if you reuse any part of the work.
