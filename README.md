@@ -21,11 +21,11 @@ This project contains a Power BI dashboard built for visualizing and analyzing s
 
 #### 1️⃣ Service Overview
 This dashboard section provides a high-level summary of service performance and follow-up status.  
-![Service Overview](images/DAshboard1.png)
+![Service Overview](images/Service_Performance_dashboard.jpg)
 
 #### 2️⃣ Geographic Service Analysis
 This page visualizes service performance across different geographic areas and highlights regional trends.  
-![Geographic Service Analysis](images/dashboard2.png)
+![Geographic Service Analysis](images/Geographic_service_coverage.jpg)
 
 ---
 
